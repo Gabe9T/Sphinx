@@ -8,7 +8,7 @@
 
 ## Usage
 This app enables users to:
-- **Guess the riddle 
+- Guess the riddle 
 
 ## Setup/Installation Requirements 
 1. Navigate to the [GitHub repository](https://github.com/Gabe9T/Sphinx) for this project.
